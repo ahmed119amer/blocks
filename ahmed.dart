@@ -1,1 +1,3 @@
-print('fgdfgdf');
+main(){
+    print('ahmed');
+}
